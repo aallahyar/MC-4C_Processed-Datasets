@@ -10,6 +10,6 @@ Each fragment is then described by the following columns (as header):
 - **Strand:** A numberic value representing strand of mapped fragment in the reference genome (i.e. `1` --> Forward, `-1` --> Reverse).
 - **MQ:** Mapping quality, representing mapping confidence of aligner (i.e. BWA-SW) for mapping that fragment.
 - **SeqRunIndex:** A numeric identifier to represent sequencing runs of the same view point 
-(*this can be potentially ignored as after PCR filter, data from same the viewpoint but different sequencing runs can be combined together*).
+(*this column can be potentially ignored most of the time as after PCR filter, data from same the viewpoint but different sequencing runs can be combined together*).
 
 **Note:** Reads in these datasets are already filtered for PCR duplicates and therefore, each read uniquely represents a single allele.
