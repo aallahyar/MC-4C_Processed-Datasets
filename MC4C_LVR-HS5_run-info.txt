@@ -1,0 +1,5 @@
+SequencingRuns	LVR-HS5-NP;LVR-HS5-96x
+ViewpointRegion	chr7:111021688-111023683
+RestrictionEnzymes	DpnII;HindIII
+ReferenceGenome	mm9
+LocusofInterest	chr7:110933500-111066500

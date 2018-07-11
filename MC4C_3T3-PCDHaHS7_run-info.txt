@@ -1,0 +1,5 @@
+SequencingRuns	3T3-PCDHaHS7-96x
+ViewpointRegion	chr18:37335329-37340429
+RestrictionEnzymes	DpnII;HindIII
+ReferenceGenome	mm9
+LocusofInterest	chr18:37060000-37400000

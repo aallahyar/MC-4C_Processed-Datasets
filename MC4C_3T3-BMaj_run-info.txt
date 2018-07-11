@@ -1,0 +1,5 @@
+SequencingRuns	3T3-BMaj-96x
+ViewpointRegion	chr7:110976388-110978383
+RestrictionEnzymes	DpnII;HindIII
+ReferenceGenome	mm9
+LocusofInterest	chr7:110933500-111066500

@@ -1,0 +1,5 @@
+SequencingRuns	BRN-HS5-96x
+ViewpointRegion	chr7:111021698-111023693
+RestrictionEnzymes	DpnII;HindIII
+ReferenceGenome	mm9
+LocusofInterest	chr7:110933500-111066500

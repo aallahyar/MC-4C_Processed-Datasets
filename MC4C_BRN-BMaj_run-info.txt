@@ -1,0 +1,5 @@
+SequencingRuns	BRN-BMaj-96x;BRN-BMaj-96x2
+ViewpointRegion	chr7:110976388-110978383
+RestrictionEnzymes	DpnII;HindIII
+ReferenceGenome	mm9
+LocusofInterest	chr7:110933500-111066500

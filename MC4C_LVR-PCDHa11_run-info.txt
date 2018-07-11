@@ -1,0 +1,5 @@
+SequencingRuns	LVR-PCDHa11-96x
+ViewpointRegion	chr18:37167503-37172603
+RestrictionEnzymes	DpnII;HindIII
+ReferenceGenome	mm9
+LocusofInterest	chr18:37060000-37400000

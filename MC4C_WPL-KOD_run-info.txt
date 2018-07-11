@@ -1,0 +1,5 @@
+SequencingRuns	WPL-KOD;WPL-KOD2
+ViewpointRegion	chr8:121126666-121145791
+RestrictionEnzymes	MboI;HindIII
+ReferenceGenome	hg19
+LocusofInterest	chr8:120800000-122075000

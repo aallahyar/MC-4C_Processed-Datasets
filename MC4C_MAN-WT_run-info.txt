@@ -1,0 +1,5 @@
+SequencingRuns	MAN-WT
+ViewpointRegion	chr6:119439784-119462284
+RestrictionEnzymes	MboI;SacI
+ReferenceGenome	hg19
+LocusofInterest	chr6:119250000-120750000
