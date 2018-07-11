@@ -1,5 +1,6 @@
 # MC-4C_Processed-Datasets
 This repository encloses all processed datasets used in MC-4C manuscript: https://doi.org/10.1038/s41588-018-0161-5
+The raw (unprocessed) version of these datasets can be found in ENA: https://www.ebi.ac.uk/ena/data/view/PRJEB23327
 
 ## Dataset format
 Datasets are prepared in gzipped tab-delimitted files and named using the following format: 
