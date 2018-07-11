@@ -18,5 +18,5 @@ These files are named as `<Dataset name>_run-info.txt`. Each file contain the fo
 - **SequencingRuns:** List of sequencing runs used for this dataset (delimitted by `;`).
 - **ViewpointRegion:** Viewpoint coordinate for this dataset (format: `<chromosome>`:`<primerBegin>`-`<primerEnd>`).
 - **RestrictionEnzymes:** Pair of restriction enzyme names used to prepare MC-4C library for this dataset.
-- **ReferenceGenome:** Reference genome used to process this dataset (i.e. hg19 or mm9).
+- **ReferenceGenome:** Reference genome used to process this dataset (i.e. `hg19` or `mm9`).
 - **LocusofInterest:**	Begin and end coordinates of locus of interest (LOI) used in multi-contact analysis of MC-4C.
