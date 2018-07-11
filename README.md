@@ -20,7 +20,7 @@ Each fragment is then described by the following columns (represented as headers
 
 ## Dataset information (meta-data)
 A meta-data file is provided for each dataset to provide additional information that could be useful in analysing MC-4C datasets. 
-These files are named as `<Dataset name>_run-info.txt`. Each file contain the following rows:
+These files are named as `<Dataset_Name>_run-info.txt`. Each file contain the following rows:
 - **SequencingRuns:** List of sequencing runs used for this dataset (delimitted by `;`).
 - **ViewpointRegion:** Viewpoint coordinate for this dataset (format: `<chromosome>`:`<primerBegin>`-`<primerEnd>`).
 - **RestrictionEnzymes:** Pair of restriction enzyme names used to prepare MC-4C library for this dataset.
