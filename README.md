@@ -2,7 +2,12 @@
 This repository encloses all processed datasets used in MC-4C manuscript: https://doi.org/10.1038/s41588-018-0161-5
 
 ## Dataset format
-Datasets are prepared in gzipped tab-delimitted files and named using the following format: MC4C_<Cell_Type>-<Viewpoint_Name>.tsv.gz.
+Datasets are prepared in gzipped tab-delimitted files and named using the following format: 
+
+```
+MC4C_<Cell_Type>-<Viewpoint_Name>.tsv.gz
+```
+
 Datasets are already filtered for PCR duplicates and therefore, each read uniquely represents a single allele. Each row in a .gz file represents a single fragment. 
 Each fragment is then described by the following columns (as header):
 - **ReadID:** A numeric identifier (starting from 1) representing each sequenced read.
