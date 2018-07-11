@@ -15,8 +15,8 @@ Each fragment is then described by the following columns (as header):
 ## Dataset information (meta-data)
 A meta-data file is provided for each dataset to provide additional information about that might be useful in analysing MC-4C. 
 These files are named as `<Dataset name>_run-info.txt`. Each file contain the following rows:
-- **SequencingRuns:** List of sequencing runs used for this dataset (delimitted by `;`)
-**ViewpointRegion:** Viewpoint coordinate for this dataset (format:	`<chromosome>:<primerBegin>-<primerEnd>`)
-RestrictionEnzymes	MboI;HindIII
-ReferenceGenome	hg19
-LocusofInterest	chr8:120800000-122075000
+- **SequencingRuns:** List of sequencing runs used for this dataset (delimitted by `;`).
+- **ViewpointRegion:** Viewpoint coordinate for this dataset (format: `<chromosome>:<primerBegin>-<primerEnd>`).
+- **RestrictionEnzymes:** Pair of restriction enzyme names used to prepare MC-4C library for this dataset.
+- **ReferenceGenome:** Reference genome used to process this dataset (i.e. hg19 or mm9).
+- **LocusofInterest:**	Begin and end coordinates of locus of interest (LOI) used in multi-contact analysis of MC-4C.
